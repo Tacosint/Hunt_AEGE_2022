@@ -14,5 +14,8 @@ Nous avons participé à ce CTF sous le nom d’équipe Tacosint, qui était com
 
 
 # Write-ups
-  - [Write-up Markdown](https://raw.githubusercontent.com/Tacosint/Hunt_AEGE_2021/main/writeup.md)
-  - [Write-up PDF](https://raw.githubusercontent.com/Tacosint/Hunt_AEGE_2021/main/Write-up_HUNT_EGE_2022_Tacosint.pdf)
+## Markdown
+  - [Write-up](https://raw.githubusercontent.com/Tacosint/Hunt_AEGE_2021/main/writeup.md)
+  - [Rapport](https://raw.githubusercontent.com/Tacosint/Hunt_AEGE_2021/main/rapport.md)
+## PDF
+  - [Write-up + Rapport](https://raw.githubusercontent.com/Tacosint/Hunt_AEGE_2021/main/Write-up_HUNT_EGE_2022_Tacosint.pdf)
