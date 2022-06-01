@@ -241,7 +241,7 @@ Les organisateurs nous demandent alors de retrouver le manuel complet en pdf et 
 Nous retournons donc à l’EGE où les organisateurs nous attendent pour le challenge final : désamorcer la bombe. Après avoir relu la notice et en mettant à profit nos heures de jeu, nous désamorçons une bombe difficile avec 28 secondes restantes au compteur. Hervé et l’EGE sont sauvés ! Qui aurait cru que nos après-midi passées sur ce jeu auraient servi un jour ?
 
 # Rapport
-https://raw.githubusercontent.com/Tacosint/Hunt_AEGE_2021/main/rapport.md
+https://github.com/Tacosint/Hunt_AEGE_2021/blob/main/rapport.md
 
 # Maltego
 Pendant tout ce CTF, nous avons complété un Maltego avec les différentes informations que nous avons récoltées.
