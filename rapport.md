@@ -1,4 +1,6 @@
-# Rapport
+# Rapport HUNT EGE 2022 - OSINT CTF
+By Eldwiin & Zmondy & R0ck3t & Yui (aka Kipixelle) & Tab - Équipe Tacosint🌮
+
 ## Contexte de la mission
 Le commanditaire de la mission est Hervé de Montaclerc. Après s’être réveillé enfermé dans une salle bâchée avec une bombe près de lui, ce dernier nous a contacté afin de le retrouver et de désamorcer la bombe.
 
